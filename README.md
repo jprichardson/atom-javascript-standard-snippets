@@ -20,8 +20,8 @@ This package is a fork of
 - https://github.com/zenorocha/sublime-javascript-snippets which is a fork of
 - https://github.com/jprichardson/sublime-js-snippets
 
-So thanks to [zenorocha](https://github.com/zenorocha) for helping me come
-full-circle from Sublime to Atom.
+So thanks to [zenorocha](https://github.com/zenorocha) for helping these snippets
+come full-circle.
 
 Why not `javascript-snippets` package? Because it doesn't adhere to
 [JavaScript Standard Style](https://github.com/feross/standard) and doesn't
