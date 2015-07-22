@@ -2,9 +2,9 @@
   "name": "javascript-standard-snippets",
   "version": "0.1.0",
   "description": "JavaScript Standard Style Snippets for Atom",
-  "repository": "https://github.com/jprichardson/atom-javascript-node-snippets",
+  "repository": "https://github.com/jprichardson/atom-javascript-standard-snippets",
   "license": "MIT",
   "engines": {
-    "atom": ">1.0.0"
+    "atom": ">=1.0.0"
   }
 }
