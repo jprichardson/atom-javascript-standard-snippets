@@ -174,7 +174,7 @@ it's 1.0, you can and should expect breaking changes.
 
 I'm particularly interested in ES6 (ES2015)/ES7 snippet suggestions.
 
-Please don't suggest maintaing snippets for the sake of ES5 compatibility, it's
+Please don't suggest maintaining snippets for the sake of ES5 compatibility, it's
 not gonna happen.
 
 
