@@ -178,6 +178,13 @@ Please don't suggest maintaining snippets for the sake of ES5 compatibility, it'
 not gonna happen.
 
 
+Alternatives
+------------
+- https://github.com/atom/language-javascript
+- https://github.com/extrabacon/atom-turbo-javascript
+- https://github.com/zenorocha/atom-javascript-snippets#afn-anonymous-function
+
+
 License
 -------
 
